@@ -1,0 +1,2 @@
+trixy:velodyne/velodyne_description:velodyne/velodyne_gazebo_plugins
+-DCATKIN_DEVEL_PREFIX=/home/sakaar/robomechtrix_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sakaar/robomechtrix_ws/install -G Unix Makefiles

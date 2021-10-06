@@ -1,0 +1,8 @@
+prefix=/home/sakaar/robomechtrix_ws/devel
+
+Name: testing_tejal
+Description: Description of testing_tejal
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
